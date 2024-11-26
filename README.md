@@ -85,21 +85,6 @@ Model release and download links are provided in the table below:
 
 ### 3.1. LLM evaluation results on examination and professional knowledge
 
-<style>
-table th {
-  background-color: #f2f2f2;
-}
-
-td.orion{
-  background-color: #e6ffe6;
-}
-
-td.avg{
-  background-color: #ffffe0;
-}
-
-</style>
-
 
 |TestSet|Mixtral 8x7B|Qwen1.5-32b|Qwen2.5-32b|Orion 14B |Qwen2-57B-A14 <th> Orion MoE8x7B</th>
 | -------------- | ---- | ---- | ---- | ---- | ---- 
