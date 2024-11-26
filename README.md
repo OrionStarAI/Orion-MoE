@@ -13,7 +13,7 @@
 <div align="center">
 
 <div align="center">
-     <b>🌐English</b> | <a href="https://huggingface.co/OrionStarAI/Orion-MoE8x7B/blob/main/README_zh.md" target="_blank">🇨🇳中文</a>
+     <b>🌐English</b> | <a href="https://github.com/OrionStarAI/Orion-MoE/blob/main/README_zh.md" target="_blank">🇨🇳中文</a>
 </div>
 
 
