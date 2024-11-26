@@ -86,20 +86,6 @@
 <a name="zh_model-benchmark"></a><br>
 # 3. 评估结果
 
-<style>
-table th {
-  background-color: #f2f2f2;
-}
-
-td.orion{
-  background-color: #e6ffe6;
-}
-
-td.avg{
-  background-color: #ffffe0;
-}
-</style>
-
 ### 3.1. 基座模型基准测试对比
 |TestSet|Mixtral 8x7B|Qwen1.5-32b|Qwen2.5-32b|Orion 14B |Qwen2-57B-A14 <th> Orion MoE8x7B</th>
 | -------------- | ---- | ---- | ---- | ---- | ---- 
