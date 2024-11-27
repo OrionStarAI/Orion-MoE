@@ -55,7 +55,7 @@
     |Embedding Tying    | False       |
     |Position embedding | RoPE        |
     |seq_len            | 8192        |
-    |Vocabulary Size    | 1136664     |
+    |Vocabulary Size    | 113664      |
 
 - Training hyper-parameters
   - We use the AdamW optimizer with hyperparameters set to 𝛽1 = 0.9, 𝛽2 = 0.95, and a weight decay of 0.1.
