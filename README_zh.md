@@ -60,7 +60,7 @@
     |Embedding Tying    | False       |
     |Position embedding | RoPE        |
     |seq_len            | 8192        |
-    |Vocabulary Size    | 1136664     |
+    |Vocabulary Size    | 113664      |
 
 - Orion-MoE8x7B训练超参
   - 我们使用AdamW优化器将超参数设置为 𝛽1 = 0.9, 𝛽2 = 0.95，权重衰减为0.1。
